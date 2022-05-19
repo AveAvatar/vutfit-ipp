@@ -1,0 +1,2 @@
+# vutfit-ipp
+IPP projects
